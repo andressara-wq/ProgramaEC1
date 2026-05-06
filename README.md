@@ -11,3 +11,9 @@ Este projeto é uma aplicação simples em Python que simula o atendimento em um
    - Pergunta ao usuário a forma de pagamento.
    - Aplica um desconto de 10% se for pagamento à vista (Pix/Dinheiro) ou mantém o preço se for parcelado.
 5. **Saída**: Exibe um resumo da compra, incluindo o nome do cliente, o produto escolhido e o valor final calculado.
+## Como Executar
+1. Certifique-se de ter o Python instalado (versão 3.10 ou superior recomendada).
+2. Baixe o arquivo `app.py`.
+3. Abra o terminal na pasta do arquivo e execute:
+   ```bash
+   python app.py
